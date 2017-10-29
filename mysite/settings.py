@@ -25,7 +25,7 @@ SECRET_KEY = '3rgcuch1fn7mj44$w2yox=!(w0e%5_4m#w6h0^1cb9=y+r7c6@'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['http://qutub2392.pythonanywhere.com']
+ALLOWED_HOSTS = ['qutub2392.pythonanywhere.com']
 
 
 # Application definition
